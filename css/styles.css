@@ -1,0 +1,32 @@
+body{
+  background-color: #a8d8ea;
+}
+
+hr{
+  border-color: #678ea3;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1{
+  color: #376075;
+}
+
+h3{
+  color: #376075;
+}
+
+.profileName:hover{
+  color: #6082bf;
+}
+
+.link{
+  color: #d177c1;
+}
+
+#changedName{
+  color: #8ea2ad;
+  text-decoration: line-through;
+}
